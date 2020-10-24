@@ -1,0 +1,2 @@
+# Automatic-Face-Recognition-System
+PROJECT : Face Recognition System | Bangalore. Client : Employees Attendance Brief : Built Deep Learning / Computer Vision based employees attendance system Captured face images via Live Camera Streaming for further model training , Then the trained model predicts the given user details to prevent unauthorised events e.g tailgating in office, providing an effective attendance system, Increase accuracy, Ensure data integrity, Reduce administrative work, Lower admin costs etc. Used tkinter for UI design.
